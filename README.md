@@ -1,4 +1,4 @@
-#pypdf
+# pypdf
 sentence_transformers
 chromadb
 openai-whisper ffmpeg-python
